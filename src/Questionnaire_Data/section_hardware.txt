@@ -1,0 +1,5 @@
+hardware
+	camera
+	microphone
+	accelerometer
+	gyroscope

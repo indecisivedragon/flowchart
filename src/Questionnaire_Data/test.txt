@@ -1,0 +1,18 @@
+{
+	"hardware": {
+		"category": "hardware",
+		"main": {
+			"question": "Does your app collect hardware data?",
+			"response_self": false,
+			"response_other": false
+		},
+		"secondary": {
+			"accelerometer": "accelerometer data?",
+			"camera": "camera data?",
+			"microphone": "microphone data?"
+		}
+	},
+	"location": {
+		"category": "location"
+	}
+}

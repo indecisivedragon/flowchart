@@ -1,0 +1,1 @@
+{"name": "location", "subsections": {"geofencing": "{\"data_type\": \"geofencing\", \"indirect\": true, \"direct\": false, \"third_party\": \"jacob\"}", "fine": "{\"data_type\": \"fine\", \"indirect\": false, \"direct\": true, \"third_party\": null}", "coarse": "{\"data_type\": \"coarse\", \"indirect\": false, \"direct\": false, \"third_party\": null}"}}
